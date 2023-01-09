@@ -1,5 +1,7 @@
 Wheel-of-Fortune-with-GUI
-Wheel of Fortune game with a spinning wheel and main game menu Work Split:
+Wheel of Fortune game with a spinning wheel and main game menu 
+
+Work Split:
 
 Michael Nduku(Partner): Player selection/ introduction page , player count, turns and points display, word bank and word bank logic, main game layout and buttons
 
