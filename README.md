@@ -8,7 +8,10 @@
 - Rules are akin to regular Wheel of Fortune rules. Spin the wheel and then guess a letter. You will be awarded the wheels bonus for each amount of times the letter is found
 - The spin's result is printed on the right-hand side
 - SFX included
-*note: Work in progress, wheel functionality needs revamp*
+- *note: Work in progress, wheel functionality needs revamp*
 
 
 ![Screenshot 2023-12-01 173014](https://github.com/Mnduku/Wheel-Of-Fortune/assets/116856099/f6fb05a2-57ed-4cb6-ba54-d215ea1252a9)
+
+- The game will end when the chosen phrase is completed and the winner will be chosen accordingly.
+- There is the option to guess the entire phrase rather then the letter, below the wheel
