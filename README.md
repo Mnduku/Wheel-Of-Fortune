@@ -1,18 +1,14 @@
-Wheel-of-Fortune-with-GUI
-Wheel of Fortune game with a spinning wheel and main game menu 
+# Wheel of Fortune Java
+## An implementation of the old board game Wheel of Fortune using Java
+### Collaboration between me and Randy Marcellin
 
-Work Split:
+![Screenshot 2023-12-01 172621](https://github.com/Mnduku/Wheel-Of-Fortune/assets/116856099/b1d932d6-d95d-4a53-83e3-95022bf56a51)
 
-Michael Nduku(Partner): Player selection/ introduction page , player count, turns and points display, word bank and word bank logic, main game layout and buttons
+- Play count can be either 1 - 4
+- Rules are akin to regular Wheel of Fortune rules. Spin the wheel and then guess a letter. You will be awarded the wheels bonus for each amount of times the letter is found
+- The spin's result is printed on the right-hand side
+- SFX included
+*note: Work in progress, wheel functionality needs revamp*
 
-Randy Marcelin(Me): Wheel image and wheel spinning, getting points from wheel, reading sentences from file and display with Images.
 
-Instructions:
-
-The game starts with a main window which you can choose the player count and see the instructions. After choosing the player count and pressing "Start", the game starts and player one spins the wheel then makes a guess. Each player gets one turn. Guess cannot be made until wheel is spun. Winner determined by who has the most points when the chosen sentence is finished
-
-Wheel is basically like a dice. Indicated values shown on side
-
-extra features:
-
-into/player selection page sound affects mute buttons support for 1-4 players
+![Screenshot 2023-12-01 173014](https://github.com/Mnduku/Wheel-Of-Fortune/assets/116856099/f6fb05a2-57ed-4cb6-ba54-d215ea1252a9)
